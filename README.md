@@ -67,14 +67,10 @@ Biological interpretation of top predictors
 Model Performance
 Random Forest achieved the strongest performance with high accuracy and AUC.
 ROC Curves
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 Confusion Matrices
 Logistic Regression
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 Random Forest
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 Feature Importance
-[Looks like the result wasn't safe to show. Let's switch things up and try something else!]
 6. Biological Interpretation
 The model identifies morphological irregularity as the strongest predictor of malignancy.
 Key biological insights:
